@@ -1,0 +1,1 @@
+This repository contains the implementation of the Mixed Skewed Generalized Normal (MSGN) framework, including the MSGN distribution fitting procedure, Wasserstein distance computation, and the TAN-MSGN classifier, which combines the Tree-Augmented Naïve Bayes (TAN) model with the MSGN distribution for classification tasks.
